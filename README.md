@@ -6,3 +6,5 @@ Este é um repositório que registra meus exercícios de lógica de programaçã
  - [1001 - Extremamente Básico](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1001)
  - [1002 - Área do Círculo](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1002)
  - [1003 - Soma Simples](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1003)
+ - [1004 - Produto Simples](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1004)
+ - [1005 - Média 1](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1005)
