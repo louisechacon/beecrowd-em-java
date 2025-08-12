@@ -10,3 +10,4 @@ Este é um repositório que registra meus exercícios de lógica de programaçã
  - [1005 - Média 1](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1005)
  - [1006 - Média 2](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1006)
  - [1007 - Diferença](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1007)
+ - [1008 - Salário](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1008)
