@@ -12,6 +12,7 @@ A saída deverá ser uma mensagem conforme o exemplo fornecido abaixo, lembrando
 
 Exemplo de Entrada
 12 1 5.30
+
 16 2 5.10
 
 Exemplo de Saída
