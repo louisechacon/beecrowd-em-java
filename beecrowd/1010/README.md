@@ -11,7 +11,7 @@ A saída deverá ser uma mensagem conforme o exemplo fornecido abaixo, lembrando
 "R$". O valor deverá ser apresentado com 2 casas após o ponto.
 
 Exemplo de Entrada
-12 1 5.30
+12 1 5.30 |
 16 2 5.10
 
 Exemplo de Saída
