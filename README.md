@@ -13,3 +13,4 @@ Este é um repositório que registra meus exercícios de lógica de programaçã
  - [1008 - Salário](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1008)
  - [1009 - Salário com Bônus](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1009)
  - [1010 - Cálculo Simples](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1010)
+ - [1014 - Consumo](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1010)
