@@ -18,3 +18,4 @@ Este é um repositório que registra meus exercícios de lógica de programaçã
  - [1013 - O Maior](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1013)
  - [1014 - Consumo](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1014)
  - [1015 - Distância Entre Dois Pontos](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1015)
+ - [1020 - Idade em Dias](https://github.com/louisechacon/beecrowd-em-java/tree/main/beecrowd/1020)
