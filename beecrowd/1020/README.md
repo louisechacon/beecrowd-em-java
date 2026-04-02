@@ -6,7 +6,7 @@ Obs.: apenas para facilitar o cálculo, considere todo ano com 365 dias e todo m
 ## Entrada
 O arquivo de entrada contém um valor inteiro.
 
-# Saída
+## Saída
 Imprima a saída conforme exemplo fornecido.
 
 ### Exemplo de entrada
